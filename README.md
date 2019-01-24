@@ -1,5 +1,4 @@
 Meu primeiro sistema no git.
 
-Alteração no readme para descrever melhor meu sistema.
+Alteração feita no master.
 
-Alterando novamente o arquivo readme.
